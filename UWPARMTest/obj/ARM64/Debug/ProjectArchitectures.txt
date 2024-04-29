@@ -1,0 +1,2 @@
+C:\code\UWPARMTest\UWPARMTest\UWPARMTest.csproj;arm64
+C:\code\UWPARMTest\UWPLibrary\UWPLibrary.csproj;arm64

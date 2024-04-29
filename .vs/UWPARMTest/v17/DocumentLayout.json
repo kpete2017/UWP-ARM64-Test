@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\UWPARMTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCA05C-7C11-4DE0-ABAF-50A07A5FAF65}|UWPARMTest\\UWPARMTest.csproj|c:\\code\\uwparmtest\\uwparmtest\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8BCA05C-7C11-4DE0-ABAF-50A07A5FAF65}|UWPARMTest\\UWPARMTest.csproj|solutionrelative:uwparmtest\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5E97A-2928-4B70-8D25-30183C18B2F7}|UWPLibrary\\UWPLibrary.csproj|c:\\code\\uwparmtest\\uwplibrary\\customusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EB5E97A-2928-4B70-8D25-30183C18B2F7}|UWPLibrary\\UWPLibrary.csproj|solutionrelative:uwplibrary\\customusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB5E97A-2928-4B70-8D25-30183C18B2F7}|UWPLibrary\\UWPLibrary.csproj|c:\\code\\uwparmtest\\uwplibrary\\customusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB5E97A-2928-4B70-8D25-30183C18B2F7}|UWPLibrary\\UWPLibrary.csproj|solutionrelative:uwplibrary\\customusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\code\\UWPARMTest\\UWPARMTest\\MainPage.xaml",
+              "RelativeDocumentMoniker": "UWPARMTest\\MainPage.xaml",
+              "ToolTip": "C:\\code\\UWPARMTest\\UWPARMTest\\MainPage.xaml",
+              "RelativeToolTip": "UWPARMTest\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T18:44:22.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomUserControl.xaml",
+              "DocumentMoniker": "C:\\code\\UWPARMTest\\UWPLibrary\\CustomUserControl.xaml",
+              "RelativeDocumentMoniker": "UWPLibrary\\CustomUserControl.xaml",
+              "ToolTip": "C:\\code\\UWPARMTest\\UWPLibrary\\CustomUserControl.xaml",
+              "RelativeToolTip": "UWPLibrary\\CustomUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T18:39:46.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomUserControl.xaml.cs",
+              "DocumentMoniker": "C:\\code\\UWPARMTest\\UWPLibrary\\CustomUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "UWPLibrary\\CustomUserControl.xaml.cs",
+              "ToolTip": "C:\\code\\UWPARMTest\\UWPLibrary\\CustomUserControl.xaml.cs",
+              "RelativeToolTip": "UWPLibrary\\CustomUserControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:38:52.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
